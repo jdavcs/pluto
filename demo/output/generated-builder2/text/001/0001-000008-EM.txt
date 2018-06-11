@@ -1,0 +1,36 @@
+Date: Sat, 2 Feb 2002 06:36:58 -0800 (PST),Sat, 2 Feb 2002 06:36:58 -0600 (CST)
+Message-ID: <EIXJDO1DNGOM0AUFHBA0UKQFJ23ZXPUZB@zlsvr22>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+2.0: Microsoft Mail Internet Headers Version 2.0
+Received: from nahou-mscnx06p.corp.enron.com ([192.168.110.237]) by napdx-msmbx01v.corp.enron.com with Microsoft SMTPSVC(5.0.2195.2966);
+Received: from NAHOU-MSMSW06P.corp.enron.com ([192.168.110.228]) by nahou-mscnx06p.corp.enron.com with Microsoft SMTPSVC(5.0.2195.2966);
+Received: from mailman.enron.com (unverified) by NAHOU-MSMSW06P.corp.enron.com
+Received: from dserv1.ect.enron.com (dserv1.ect.enron.com [172.16.1.37])
+Received: from anonymous (ecthou-bps3.corp.enron.com [172.16.4.77])
+04: 37:00 -0800
+06: 36:59 -0600,36:59 -0600,36:58 -0600 (CST),36:58 -0600 (CST)
+From: "Schedule Crawler" <pete.davis@enron.com>
+To: "Pete Davis" <pete.davis@enron.com>
+CC: "Bert Meyers" <bert.meyers@enron.com>, "William Williams III" <bill.williams.III@enron.com>, "Craig Dean" <Craig.Dean@enron.com>, "Geir Solberg" <Geir.Solberg@enron.com>
+Subject: Start Date: 2/2/02; HourAhead hour: 7;
+Return-Path: pete.davis@enron.com
+X-OriginalArrivalTime: 02 Feb 2002 12:36:59.0904 (UTC) FILETIME=[4EFBD800:01C1ABE6]
+X-ZL-from: Davis, Pete </O=ENRON/OU=NA/CN=RECIPIENTS/CN=PDAVIS1>
+X-ZL-to: Davis, Pete </O=ENRON/OU=NA/CN=RECIPIENTS/CN=PDAVIS1>
+X-ZL-cc: Meyers, Albert </O=ENRON/OU=NA/CN=RECIPIENTS/CN=BMEYERS>, Williams III, Bill
+X-ZL-subject: Start Date: 2/2/02; HourAhead hour: 7;
+filename: bert meyers 6-25-02.PST
+folder: \ExMerge - Meyers, Albert\Deleted Items
+
+Start Date: 2/2/02; HourAhead hour: 7;  No ancillary schedules awarded.  No variances detected. 
+
+    LOG MESSAGES:
+
+PARSING FILE -->> O:\Portland\WestDesk\California Scheduling\ISO Final Schedules\2002020207.txt
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

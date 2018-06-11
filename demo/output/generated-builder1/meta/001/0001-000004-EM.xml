@@ -1,0 +1,110 @@
+<item id="0001-000004-EM" custodian_id="1" type="email" >
+
+	<files>
+		<file type="text" name="0001-000004-EM.txt" path="../../text/001/0001-000004-EM.txt" />
+	</files>
+
+	<pst-data type="note" attachments="0">
+		<pst-folder id="7">Deleted Items</pst-folder>
+		<email-data >
+			<email-to>Pete Davis</email-to>
+			<email-cc>Bert Meyers; William Williams III; Craig Dean; Geir Solberg</email-cc>
+			<email-date>2002-01-19T14:36:29Z</email-date>
+			<email-subject>Schedule Crawler: HourAhead Failure</email-subject>
+		</email-data>
+	</pst-data>
+
+	<metadata>
+		<field name="create_date">2009-05-08T21:56:04Z</field>
+		<field name="file_as">Pete Davis</field>
+		<field name="modify_date">2009-05-08T21:56:04Z</field>
+		<field name="response_requested">0</field>
+		<field name="subject">Schedule Crawler: HourAhead Failure</field>
+		<field name="flags">1</field>
+		<field name="cc_address">Bert Meyers; William Williams III; Craig Dean; Geir Solberg</field>
+		<field name="delete_after_submit">0</field>
+		<field name="delivery_report">0</field>
+		<field name="message_cc_me">0</field>
+		<field name="message_recip_me">0</field>
+		<field name="message_to_me">0</field>
+		<field name="messageid"><![CDATA[<BF0XXUCUF5RJW3YCYZ0YBZVHW1YW3ZJAB@zlsvr22>]]></field>
+		<field name="ndr_diag_code">0</field>
+		<field name="ndr_reason_code">0</field>
+		<field name="ndr_status_code">0</field>
+		<field name="outlook_sender">SMTP:PETE.DAVIS@ENRON.COM</field>
+		<field name="outlook_sender_name">Schedule Crawler</field>
+		<field name="outlook_sender2">SMTP:PETE.DAVIS@ENRON.COM</field>
+		<field name="processed_subject">Schedule Crawler: HourAhead Failure</field>
+		<field name="read_receipt">0</field>
+		<field name="reply_requested">0</field>
+		<field name="return_path_address">pete.davis@enron.com</field>
+		<field name="rtf_body_char_count">0</field>
+		<field name="rtf_body_crc">0</field>
+		<field name="rtf_in_sync">0</field>
+		<field name="rtf_ws_prefix_count">0</field>
+		<field name="rtf_ws_trailing_count">0</field>
+		<field name="sender_access">SMTP</field>
+		<field name="sender_address">pete.davis@enron.com</field>
+		<field name="sender2_access">SMTP</field>
+		<field name="sender2_address">pete.davis@enron.com</field>
+		<field name="sentto_address">Pete Davis</field>
+		<field name="arrival_date">2002-01-19T14:36:29Z</field>
+		<field name="importance">low</field>
+		<field name="original_sensitivity">none</field>
+		<field name="priority">nonurgent</field>
+		<field name="sensitivity">none</field>
+		<field name="sent_date">2002-01-19T14:36:29Z</field>
+		<field name="Internet_Charset_Body"><![CDATA[
+
+Start Date: 1/19/02; HourAhead hour: 7;  HourAhead schedule download failed. Manual intervention required.
+
+    LOG MESSAGES:
+
+PARSING FILE -->> O:\Portland\WestDesk\California Scheduling\ISO Final Schedules\2002011907.txt
+Error: dbCaps97Data: Cannot perform this operation on a closed database
+!!!Unknown database.
+Alias: dbCaps97Data
+!!!Unknown database.
+Alias: dbCaps97Data
+!!!Unknown database.
+Alias: dbCaps97Data
+Error: dbCaps97Data: Cannot perform this operation on a closed database
+!!!Unknown database.
+Alias: dbCaps97Data
+!!!Unknown database.
+Alias: dbCaps97Data
+!!!Unknown database.
+Alias: dbCaps97Data
+Error: dbCaps97Data: Cannot perform this operation on a closed database
+!!!Unknown database.
+Alias: dbCaps97Data
+!!!Unknown database.
+Alias: dbCaps97Data
+Error: dbCaps97Data: Cannot perform this operation on a closed database
+Error: dbCaps97Data: Cannot perform this operation on a closed database
+Error: dbCaps97Data: Cannot perform this operation on a closed database
+!!!Unknown database.
+Alias: dbCaps97Data
+!!!Unknown database.
+Alias: dbCaps97Data
+!!!Unknown database.
+Alias: dbCaps97Data
+!!!Unknown database.
+Alias: dbCaps97Data
+!!!Unknown database.
+Alias: dbCaps97Data
+!!!Unknown database.
+Alias: dbCaps97Data
+!!!Unknown database.
+Alias: dbCaps97Data
+Error: dbCaps97Data: Cannot perform this operation on a closed database
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+
+		]]></field>
+		<field name="conversion_prohibited">0</field>
+	</metadata>
+</item>
+

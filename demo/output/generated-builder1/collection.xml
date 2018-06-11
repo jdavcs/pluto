@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<collection xmlns:xi="http://www.w3.org/2001/XInclude">
+	<name>Enron</name>
+	<timestamp>2018-06-10 22:31:52</timestamp>
+	<custodians>
+		<!-- id="1" items="1171" source_file_name="albert_meyers_000_1_1.pst" source_file_size="33.7MB" -->
+		<xi:include href="custodians/001.xml" />
+	</custodians>
+</collection>
+

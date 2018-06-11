@@ -1,0 +1,72 @@
+<item id="0001-000001-EM" custodian_id="1" type="email" >
+
+	<files>
+		<file type="text" name="0001-000001-EM.txt" path="../../text/001/0001-000001-EM.txt" />
+	</files>
+
+	<relationships>
+		<duplicate_of id="0001-000356-EM" />
+	</relationships>
+
+	<pst-data type="note" attachments="0">
+		<pst-folder id="7">Deleted Items</pst-folder>
+		<email-data >
+			<email-to>Bert Meyers</email-to>
+			<email-date>2002-01-16T11:36:00Z</email-date>
+			<email-subject>CA Iso ATC Final Comparison for 01/16/2002</email-subject>
+		</email-data>
+	</pst-data>
+
+	<metadata>
+		<field name="create_date">2009-05-08T21:55:59Z</field>
+		<field name="file_as">Bert Meyers</field>
+		<field name="modify_date">2009-05-08T21:55:59Z</field>
+		<field name="response_requested">0</field>
+		<field name="subject">CA Iso ATC Final Comparison for 01/16/2002</field>
+		<field name="flags">1</field>
+		<field name="delete_after_submit">0</field>
+		<field name="delivery_report">0</field>
+		<field name="message_cc_me">0</field>
+		<field name="message_recip_me">0</field>
+		<field name="message_to_me">0</field>
+		<field name="messageid"><![CDATA[<LZXT1VQK4PU4YPJUABWWQCXBGT4KYPSBB@zlsvr22>]]></field>
+		<field name="ndr_diag_code">0</field>
+		<field name="ndr_reason_code">0</field>
+		<field name="ndr_status_code">0</field>
+		<field name="outlook_sender">SMTP:WESTDESKSUPPORT@ENRON.COM</field>
+		<field name="outlook_sender_name">westdesksupport@enron.com</field>
+		<field name="outlook_sender2">SMTP:WESTDESKSUPPORT@ENRON.COM</field>
+		<field name="processed_subject">CA Iso ATC Final Comparison for 01/16/2002</field>
+		<field name="read_receipt">0</field>
+		<field name="reply_requested">0</field>
+		<field name="reply_to">john.oh@enron.com</field>
+		<field name="return_path_address">westdesksupport@enron.com</field>
+		<field name="rtf_body_char_count">0</field>
+		<field name="rtf_body_crc">0</field>
+		<field name="rtf_in_sync">0</field>
+		<field name="rtf_ws_prefix_count">0</field>
+		<field name="rtf_ws_trailing_count">0</field>
+		<field name="sender_access">SMTP</field>
+		<field name="sender_address">westdesksupport@enron.com</field>
+		<field name="sender2_access">SMTP</field>
+		<field name="sender2_address">westdesksupport@enron.com</field>
+		<field name="sentto_address">Bert Meyers</field>
+		<field name="arrival_date">2002-01-16T11:36:00Z</field>
+		<field name="importance">low</field>
+		<field name="original_sensitivity">none</field>
+		<field name="priority">nonurgent</field>
+		<field name="sensitivity">none</field>
+		<field name="sent_date">2002-01-16T11:36:00Z</field>
+		<field name="Internet_Charset_Body"><![CDATA[
+
+Full Day URL <http://westdesksupport/RT/AtcFinalComp/?startHour=1&endHour=24&reportDate=01/16/2002> 
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+
+		]]></field>
+		<field name="conversion_prohibited">0</field>
+	</metadata>
+</item>
+

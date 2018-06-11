@@ -1,0 +1,73 @@
+Date: Sat, 19 Jan 2002 06:36:29 -0800 (PST),Sat, 19 Jan 2002 06:36:29 -0600 (CST)
+Message-ID: <BF0XXUCUF5RJW3YCYZ0YBZVHW1YW3ZJAB@zlsvr22>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+2.0: Microsoft Mail Internet Headers Version 2.0
+Received: from nahou-mscnx06p.corp.enron.com ([192.168.110.237]) by napdx-msmbx01v.corp.enron.com with Microsoft SMTPSVC(5.0.2195.2966);
+Received: from NAHOU-MSMSW05P.corp.enron.com ([192.168.110.226]) by nahou-mscnx06p.corp.enron.com with Microsoft SMTPSVC(5.0.2195.2966);
+Received: from mailman.enron.com (unverified) by NAHOU-MSMSW05P.corp.enron.com
+Received: from dserv1.ect.enron.com (dserv1.ect.enron.com [172.16.1.37])
+Received: from anonymous (ecthou-bps3.corp.enron.com [172.16.4.77])
+04: 36:31 -0800
+06: 36:30 -0600,36:30 -0600,36:30 -0600 (CST),36:29 -0600 (CST)
+From: "Schedule Crawler" <pete.davis@enron.com>
+To: "Pete Davis" <pete.davis@enron.com>
+CC: "Bert Meyers" <bert.meyers@enron.com>, "William Williams III" <bill.williams.III@enron.com>, "Craig Dean" <Craig.Dean@enron.com>, "Geir Solberg" <Geir.Solberg@enron.com>
+Subject: Schedule Crawler: HourAhead Failure
+Return-Path: pete.davis@enron.com
+X-OriginalArrivalTime: 19 Jan 2002 12:36:30.0965 (UTC) FILETIME=[EBF39A50:01C1A0E5]
+X-ZL-from: Davis, Pete </O=ENRON/OU=NA/CN=RECIPIENTS/CN=PDAVIS1>
+X-ZL-to: Davis, Pete </O=ENRON/OU=NA/CN=RECIPIENTS/CN=PDAVIS1>
+X-ZL-cc: Meyers, Albert </O=ENRON/OU=NA/CN=RECIPIENTS/CN=BMEYERS>, Williams III, Bill
+X-ZL-subject: Schedule Crawler: HourAhead Failure
+filename: bert meyers 6-25-02.PST
+folder: \ExMerge - Meyers, Albert\Deleted Items
+
+Start Date: 1/19/02; HourAhead hour: 7;  HourAhead schedule download failed. Manual intervention required.
+
+    LOG MESSAGES:
+
+PARSING FILE -->> O:\Portland\WestDesk\California Scheduling\ISO Final Schedules\2002011907.txt
+Error: dbCaps97Data: Cannot perform this operation on a closed database
+!!!Unknown database.
+Alias: dbCaps97Data
+!!!Unknown database.
+Alias: dbCaps97Data
+!!!Unknown database.
+Alias: dbCaps97Data
+Error: dbCaps97Data: Cannot perform this operation on a closed database
+!!!Unknown database.
+Alias: dbCaps97Data
+!!!Unknown database.
+Alias: dbCaps97Data
+!!!Unknown database.
+Alias: dbCaps97Data
+Error: dbCaps97Data: Cannot perform this operation on a closed database
+!!!Unknown database.
+Alias: dbCaps97Data
+!!!Unknown database.
+Alias: dbCaps97Data
+Error: dbCaps97Data: Cannot perform this operation on a closed database
+Error: dbCaps97Data: Cannot perform this operation on a closed database
+Error: dbCaps97Data: Cannot perform this operation on a closed database
+!!!Unknown database.
+Alias: dbCaps97Data
+!!!Unknown database.
+Alias: dbCaps97Data
+!!!Unknown database.
+Alias: dbCaps97Data
+!!!Unknown database.
+Alias: dbCaps97Data
+!!!Unknown database.
+Alias: dbCaps97Data
+!!!Unknown database.
+Alias: dbCaps97Data
+!!!Unknown database.
+Alias: dbCaps97Data
+Error: dbCaps97Data: Cannot perform this operation on a closed database
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+

@@ -1,0 +1,23 @@
+Date: Thu, 6 Sep 2001 14:20:24 -0700 (PDT),Thu, 6 Sep 2001 14:20:24 -0700  (PDT)
+Message-ID: <G3V0YVG0O5JOKUS1BTBQLANXK2MG4KLSB@zlsvr22>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+from: Meyers
+to: "DL-Portland Volume Mgmt" </O=ENRON/OU=NA/CN=RECIPIENTS/CN=DL-PortlandVolumeMgmt>
+cc: Symes, Kate </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ksymes>, "Williams III", Bill </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bwillia5>
+subject: Colstrip cut for 09/06/01
+filename: bert meyers 6-25-02.PST
+folder: \ExMerge - Meyers, Albert\Deleted Items
+date: Thu, 6 Sep 2001 14:20:24 -0700 (PDT),Thu, 6 Sep 2001 14:20:24 -0700  (PDT)
+
+To whom it may concern,
+
+just wanted to let you know that colstrip units 1 thru 4 tripped off line @ approximately 2:45.  The integrated number that PGE gave me was a 19MW, so I purchased a tranny wheel for 13MW from BPA (Portland General to MPC).  Furthermore, for HE 04 thru HE 07 the schedules went to zero and I resupplied from PGE and bought a tranny wheel from BPA (same as above).  The new deals in enpower are 764045,764203, and 764168.  If you have any questions I have put a cut note by Kate Symes in the accordian file and put cut notes in lotus under the respective counter parties (ExpressPIP, Holnam, Luzenac, Louisiana Pacific, and Ashgrove).  If there are any questions please give me a call.
+
+Bert Meyers
+
+***********
+EDRM Enron Email Data Set has been produced in EML, PST and NSF format by ZL Technologies, Inc. This Data Set is licensed under a Creative Commons Attribution 3.0 United States License <http://creativecommons.org/licenses/by/3.0/us/> . To provide attribution, please cite to "ZL Technologies, Inc. (http://www.zlti.com)."
+***********
+
