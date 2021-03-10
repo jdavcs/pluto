@@ -7,7 +7,7 @@
 * **Developed:** 2011-2012
 
 This is the processing pipeline that was used in generating the [Avocado Research Email
-Collection](https://catalog.ldc.upenn.edu/ldc2015t03). 
+Collection](https://catalog.ldc.upenn.edu/LDC2015T03). 
 
 
 
@@ -34,7 +34,7 @@ The code includes a web-based system to visually explore the collection's data a
 relationships, create labeled subsets of the data, and generate custom distribution sets based on
 selected criteria (attachment MIME types, file extensions, PST item types).
 
-Why *PLuto*? Because, similar to 
+Why *Pluto*? Because, similar to 
 <a href="https://en.wikipedia.org/wiki/Pluto_(mythology)">Pluto</a>, the system "presided over" the
 afterlife of email. 
 
